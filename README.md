@@ -17,7 +17,7 @@ O projeto de socialmedia é um protótipo de um portfólio, foi feito com intuit
 
 <img width="577" alt="desktop" src="https://github.com/jeanruf1/socialmedia/assets/163063273/c5b86d99-446f-4562-8874-5e8d5487d96d">
 
-Você pode acessar o projeto clicando [aqui](https://jeanruf1.github.io/clipboard-landing-page-master/).
+Você pode acessar o projeto clicando [aqui](https://jeanruf1.github.io/socialmedia/).
 
 ---
 
